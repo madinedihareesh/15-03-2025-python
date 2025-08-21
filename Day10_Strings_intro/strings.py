@@ -30,7 +30,9 @@ else:
 
 print(name.find('h',3,6))        
 print(name.rfind('h',0,6))
-print(name.index('d'))
+# print(name.index('d'))
 
 '''
 '''
+
+                  
